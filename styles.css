@@ -4,13 +4,16 @@
 .main{
 	width:200px;
 	background-color:purple;
+
+	
 	
 }
 .heading{
 	border-left: 5px solid green;
-	padding:10px;
+	padding: 10px;
+	
 }
-#heading{
+.heading{
 	color:white;
 	font-size:20px;
 }
